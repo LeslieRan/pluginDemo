@@ -1,6 +1,6 @@
-displayName: liandao-demo
+displayName: leslieran-demo
 type: middleware
-import: github.com/liandao/pluginDemo
+import: github.com/LeslieRan/pluginDemo
 summary: just try to develop a Traefic plugin.
 testData:
   info: hello
