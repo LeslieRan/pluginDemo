@@ -1,0 +1,6 @@
+displayName: liandao-demo
+type: middleware
+import: github.com/liandao/pluginDemo
+summary: just try to develop a Traefic plugin.
+testData:
+  info: hello
