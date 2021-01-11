@@ -1,2 +1,2 @@
 # pluginDemo
-traefic-plugin
+traefik-plugin

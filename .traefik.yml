@@ -1,6 +1,6 @@
 displayName: leslieran-demo
 type: middleware
 import: github.com/LeslieRan/pluginDemo
-summary: just try to develop a Traefic plugin.
+summary: just try to develop a Traefik plugin.
 testData:
-  info: hello
+  Info: hello
